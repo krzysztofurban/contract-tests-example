@@ -1,4 +1,4 @@
-package bookproducer;
+package io.github.krzysztofurban.bookproducer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
